@@ -25,7 +25,7 @@
                     />
                     <button
                         name="action_cancel"
-                        states="draft"
+                        states="draft,sent"
                         type="object"
                         string="Cancel"
                     />
