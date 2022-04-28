@@ -1,2 +1,2 @@
-#my init
+#my initxs
 row for testing pr 3 from branch 13.0.1
