@@ -18,14 +18,14 @@
                 >
                     <button
                         name="action_convert_to_order"
-                        states="draft,sent"
+                        states="draft"
                         class="oe_highlight"
                         type="object"
                         string="Convert to Order"
                     />
                     <button
                         name="action_cancel"
-                        states="draft,sent"
+                        states="draft"
                         type="object"
                         string="Cancel"
                     />
